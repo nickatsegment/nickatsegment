@@ -6,4 +6,4 @@ nickatsegment is https://github.com/nfirvine, but at Segment, a part of Twilio.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: My profile pic is of my beautiful dog boy, Diddy
 
-https://github-profile-trophy.vercel.app/?username=nickatsegment&no-bg=true
+[![trophy](https://github-profile-trophy.vercel.app/?username=nickatsegment&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
